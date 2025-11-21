@@ -545,7 +545,7 @@
     "movimientos": [
       "Arañazo | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35",
       "Excavar | Tipo Tierra | Categoría Físico | Potencia 80 | Precisión 100 | PP 10",
-      "Terremoто | Tipo Tierra | Categoría Físico | Potencia 100 | Precisión 100 | PP 10",
+      "Terremoto | Tipo Tierra | Categoría Físico | Potencia 100 | Precisión 100 | PP 10",
       "Bola Barro | Tipo Tierra | Categoría Especial | Potencia 65 | Precisión 85 | PP 10"
     ],
     "img_front": "assets/images/sandshrew.png",
