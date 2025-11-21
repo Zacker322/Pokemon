@@ -527,5 +527,373 @@
     ],
     "img_front": "assets/images/raichu.png",
     "img_back": "assets/images/back/raichu.png"
+  },
+  {
+    "nombre": "Sandshrew",
+    "color": [
+      220,
+      180,
+      100
+    ],
+    "tipo": "Tierra",
+    "ataque": 75,
+    "defensa": 85,
+    "ataque_especial": 20,
+    "defensa_especial": 30,
+    "velocidad": 40,
+    "salud": 150,
+    "movimientos": [
+      "Arañazo | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35",
+      "Excavar | Tipo Tierra | Categoría Físico | Potencia 80 | Precisión 100 | PP 10",
+      "Terremoто | Tipo Tierra | Categoría Físico | Potencia 100 | Precisión 100 | PP 10",
+      "Bola Barro | Tipo Tierra | Categoría Especial | Potencia 65 | Precisión 85 | PP 10"
+    ],
+    "img_front": "assets/images/sandshrew.png",
+    "img_back": "assets/images/back/sandshrew.png"
+  },
+  {
+    "nombre": "Sandslash",
+    "color": [
+      210,
+      170,
+      90
+    ],
+    "tipo": "Tierra",
+    "ataque": 100,
+    "defensa": 110,
+    "ataque_especial": 45,
+    "defensa_especial": 55,
+    "velocidad": 65,
+    "salud": 175,
+    "movimientos": [
+      "Arañazo | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35",
+      "Cuchillada | Tipo Normal | Categoría Físico | Potencia 70 | Precisión 100 | PP 20",
+      "Excavar | Tipo Tierra | Categoría Físico | Potencia 80 | Precisión 100 | PP 10",
+      "Terremoto | Tipo Tierra | Categoría Físico | Potencia 100 | Precisión 100 | PP 10"
+    ],
+    "img_front": "assets/images/sandslash.png",
+    "img_back": "assets/images/back/sandslash.png"
+  },
+  {
+    "nombre": "nidoran-f",
+    "color": [
+      180,
+      160,
+      200
+    ],
+    "tipo": "Veneno",
+    "ataque": 47,
+    "defensa": 52,
+    "ataque_especial": 40,
+    "defensa_especial": 40,
+    "velocidad": 41,
+    "salud": 155,
+    "movimientos": [
+      "Placaje | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35",
+      "Picotazo Veneno | Tipo Veneno | Categoría Físico | Potencia 15 | Precisión 100 | PP 35",
+      "Mordisco | Tipo Siniestro | Categoría Físico | Potencia 60 | Precisión 100 | PP 25",
+      "Bomba Lodo | Tipo Veneno | Categoría Especial | Potencia 90 | Precisión 100 | PP 10"
+    ],
+    "img_front": "assets/images/nidoran-f.png",
+    "img_back": "assets/images/back/nidoran-f.png"
+  },
+  {
+    "nombre": "Nidorina",
+    "color": [
+      170,
+      150,
+      190
+    ],
+    "tipo": "Veneno",
+    "ataque": 62,
+    "defensa": 67,
+    "ataque_especial": 55,
+    "defensa_especial": 55,
+    "velocidad": 56,
+    "salud": 170,
+    "movimientos": [
+      "Arañazo | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35",
+      "Picotazo Veneno | Tipo Veneno | Categoría Físico | Potencia 15 | Precisión 100 | PP 35",
+      "Mordisco | Tipo Siniestro | Categoría Físico | Potencia 60 | Precisión 100 | PP 25",
+      "Bomba Lodo | Tipo Veneno | Categoría Especial | Potencia 90 | Precisión 100 | PP 10"
+    ],
+    "img_front": "assets/images/nidorina.png",
+    "img_back": "assets/images/back/nidorina.png"
+  },
+  {
+    "nombre": "Nidoqueen",
+    "color": [
+      160,
+      140,
+      180
+    ],
+    "tipo": "Veneno/Tierra",
+    "ataque": 92,
+    "defensa": 87,
+    "ataque_especial": 75,
+    "defensa_especial": 85,
+    "velocidad": 76,
+    "salud": 190,
+    "movimientos": [
+      "Bomba Lodo | Tipo Veneno | Categoría Especial | Potencia 90 | Precisión 100 | PP 10",
+      "Terremoto | Tipo Tierra | Categoría Físico | Potencia 100 | Precisión 100 | PP 10",
+      "Garra Dragón | Tipo Dragón | Categoría Físico | Potencia 80 | Precisión 100 | PP 15",
+      "Superpoder | Tipo Lucha | Categoría Físico | Potencia 120 | Precisión 100 | PP 5"
+    ],
+    "img_front": "assets/images/nidoqueen.png",
+    "img_back": "assets/images/back/nidoqueen.png"
+  },
+  {
+    "nombre": "nidoran-m",
+    "color": [
+      200,
+      160,
+      180
+    ],
+    "tipo": "Veneno",
+    "ataque": 57,
+    "defensa": 40,
+    "ataque_especial": 40,
+    "defensa_especial": 40,
+    "velocidad": 50,
+    "salud": 146,
+    "movimientos": [
+      "Placaje | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35",
+      "Picotazo Veneno | Tipo Veneno | Categoría Físico | Potencia 15 | Precisión 100 | PP 35",
+      "Doble Patada | Tipo Lucha | Categoría Físico | Potencia 30 | Precisión 100 | PP 30",
+      "Bomba Lodo | Tipo Veneno | Categoría Especial | Potencia 90 | Precisión 100 | PP 10"
+    ],
+    "img_front": "assets/images/nidoran-m.png",
+    "img_back": "assets/images/back/nidoran-m.png"
+  },
+  {
+    "nombre": "Nidorino",
+    "color": [
+      190,
+      150,
+      170
+    ],
+    "tipo": "Veneno",
+    "ataque": 72,
+    "defensa": 57,
+    "ataque_especial": 55,
+    "defensa_especial": 55,
+    "velocidad": 65,
+    "salud": 161,
+    "movimientos": [
+      "Placaje | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35",
+      "Picotazo Veneno | Tipo Veneno | Categoría Físico | Potencia 15 | Precisión 100 | PP 35",
+      "Cornada | Tipo Normal | Categoría Físico | Potencia 65 | Precisión 100 | PP 25",
+      "Bomba Lodo | Tipo Veneno | Categoría Especial | Potencia 90 | Precisión 100 | PP 10"
+    ],
+    "img_front": "assets/images/nidorino.png",
+    "img_back": "assets/images/back/nidorino.png"
+  },
+  {
+    "nombre": "Nidoking",
+    "color": [
+      180,
+      140,
+      160
+    ],
+    "tipo": "Veneno/Tierra",
+    "ataque": 102,
+    "defensa": 77,
+    "ataque_especial": 85,
+    "defensa_especial": 75,
+    "velocidad": 85,
+    "salud": 181,
+    "movimientos": [
+      "Bomba Lodo | Tipo Veneno | Categoría Especial | Potencia 90 | Precisión 100 | PP 10",
+      "Terremoto | Tipo Tierra | Categoría Físico | Potencia 100 | Precisión 100 | PP 10",
+      "Megacuerno | Tipo Bicho | Categoría Físico | Potencia 120 | Precisión 85 | PP 10",
+      "Superpoder | Tipo Lucha | Categoría Físico | Potencia 120 | Precisión 100 | PP 5"
+    ],
+    "img_front": "assets/images/nidoking.png",
+    "img_back": "assets/images/back/nidoking.png"
+  },
+  {
+    "nombre": "Clefairy",
+    "color": [
+      255,
+      200,
+      220
+    ],
+    "tipo": "Hada",
+    "ataque": 45,
+    "defensa": 48,
+    "ataque_especial": 60,
+    "defensa_especial": 65,
+    "velocidad": 35,
+    "salud": 170,
+    "movimientos": [
+      "Destructor | Tipo Normal | Categoría Especial | Potencia 50 | Precisión 100 | PP 15",
+      "Metrónomo | Tipo Normal | Categoría Estado | Potencia 0 | Precisión 0 | PP 10",
+      "Brillo Mágico | Tipo Hada | Categoría Especial | Potencia 80 | Precisión 100 | PP 10",
+      "Fuerza Lunar | Tipo Hada | Categoría Especial | Potencia 95 | Precisión 100 | PP 15"
+    ],
+    "img_front": "assets/images/clefairy.png",
+    "img_back": "assets/images/back/clefairy.png"
+  },
+  {
+    "nombre": "Clefable",
+    "color": [
+      255,
+      180,
+      200
+    ],
+    "tipo": "Hada",
+    "ataque": 70,
+    "defensa": 73,
+    "ataque_especial": 95,
+    "defensa_especial": 90,
+    "velocidad": 60,
+    "salud": 195,
+    "movimientos": [
+      "Destructor | Tipo Normal | Categoría Especial | Potencia 50 | Precisión 100 | PP 15",
+      "Brillo Mágico | Tipo Hada | Categoría Especial | Potencia 80 | Precisión 100 | PP 10",
+      "Fuerza Lunar | Tipo Hada | Categoría Especial | Potencia 95 | Precisión 100 | PP 15",
+      "Metrónomo | Tipo Normal | Categoría Estado | Potencia 0 | Precisión 0 | PP 10"
+    ],
+    "img_front": "assets/images/clefable.png",
+    "img_back": "assets/images/back/clefable.png"
+  },
+  {
+    "nombre": "Vulpix",
+    "color": [
+      230,
+      160,
+      100
+    ],
+    "tipo": "Fuego",
+    "ataque": 41,
+    "defensa": 40,
+    "ataque_especial": 50,
+    "defensa_especial": 65,
+    "velocidad": 65,
+    "salud": 138,
+    "movimientos": [
+      "Ascuas | Tipo Fuego | Categoría Especial | Potencia 40 | Precisión 100 | PP 25",
+      "Lanzallamas | Tipo Fuego | Categoría Especial | Potencia 90 | Precisión 100 | PP 15",
+      "Fuego Fatuo | Tipo Fuego | Categoría Estado | Potencia 0 | Precisión 85 | PP 15",
+      "Onda Ígnea | Tipo Fuego | Categoría Especial | Potencia 95 | Precisión 90 | PP 10"
+    ],
+    "img_front": "assets/images/vulpix.png",
+    "img_back": "assets/images/back/vulpix.png"
+  },
+  {
+    "nombre": "Ninetales",
+    "color": [
+      220,
+      150,
+      80
+    ],
+    "tipo": "Fuego",
+    "ataque": 76,
+    "defensa": 75,
+    "ataque_especial": 81,
+    "defensa_especial": 100,
+    "velocidad": 100,
+    "salud": 173,
+    "movimientos": [
+      "Lanzallamas | Tipo Fuego | Categoría Especial | Potencia 90 | Precisión 100 | PP 15",
+      "Onda Ígnea | Tipo Fuego | Categoría Especial | Potencia 95 | Precisión 90 | PP 10",
+      "Psíquico | Tipo Psíquico | Categoría Especial | Potencia 90 | Precisión 100 | PP 10",
+      "Llamarada | Tipo Fuego | Categoría Especial | Potencia 110 | Precisión 85 | PP 5"
+    ],
+    "img_front": "assets/images/ninetales.png",
+    "img_back": "assets/images/back/ninetales.png"
+  },
+  {
+    "nombre": "Jigglypuff",
+    "color": [
+      255,
+      200,
+      220
+    ],
+    "tipo": "Normal/Hada",
+    "ataque": 45,
+    "defensa": 20,
+    "ataque_especial": 45,
+    "defensa_especial": 25,
+    "velocidad": 20,
+    "salud": 215,
+    "movimientos": [
+      "Destructor | Tipo Normal | Categoría Especial | Potencia 50 | Precisión 100 | PP 15",
+      "Canto | Tipo Normal | Categoría Estado | Potencia 0 | Precisión 55 | PP 15",
+      "Vozarrón | Tipo Normal | Categoría Especial | Potencia 90 | Precisión 100 | PP 10",
+      "Brillo Mágico | Tipo Hada | Categoría Especial | Potencia 80 | Precisión 100 | PP 10"
+    ],
+    "img_front": "assets/images/jigglypuff.png",
+    "img_back": "assets/images/back/jigglypuff.png"
+  },
+  {
+    "nombre": "Wigglytuff",
+    "color": [
+      255,
+      180,
+      200
+    ],
+    "tipo": "Normal/Hada",
+    "ataque": 70,
+    "defensa": 45,
+    "ataque_especial": 85,
+    "defensa_especial": 50,
+    "velocidad": 45,
+    "salud": 240,
+    "movimientos": [
+      "Destructor | Tipo Normal | Categoría Especial | Potencia 50 | Precisión 100 | PP 15",
+      "Vozarrón | Tipo Normal | Categoría Especial | Potencia 90 | Precisión 100 | PP 10",
+      "Brillo Mágico | Tipo Hada | Categoría Especial | Potencia 80 | Precisión 100 | PP 10",
+      "Gigaimpacto | Tipo Normal | Categoría Físico | Potencia 150 | Precisión 90 | PP 5"
+    ],
+    "img_front": "assets/images/wigglytuff.png",
+    "img_back": "assets/images/back/wigglytuff.png"
+  },
+  {
+    "nombre": "Zubat",
+    "color": [
+      160,
+      140,
+      200
+    ],
+    "tipo": "Veneno/Volador",
+    "ataque": 45,
+    "defensa": 35,
+    "ataque_especial": 30,
+    "defensa_especial": 40,
+    "velocidad": 55,
+    "salud": 140,
+    "movimientos": [
+      "Absorber | Tipo Planta | Categoría Especial | Potencia 20 | Precisión 100 | PP 25",
+      "Tornado | Tipo Volador | Categoría Especial | Potencia 40 | Precisión 100 | PP 35",
+      "Picotazo Veneno | Tipo Veneno | Categoría Físico | Potencia 15 | Precisión 100 | PP 35",
+      "Ataque Ala | Tipo Volador | Categoría Físico | Potencia 60 | Precisión 100 | PP 35"
+    ],
+    "img_front": "assets/images/zubat.png",
+    "img_back": "assets/images/back/zubat.png"
+  },
+  {
+    "nombre": "Golbat",
+    "color": [
+      150,
+      130,
+      190
+    ],
+    "tipo": "Veneno/Volador",
+    "ataque": 80,
+    "defensa": 70,
+    "ataque_especial": 65,
+    "defensa_especial": 75,
+    "velocidad": 90,
+    "salud": 175,
+    "movimientos": [
+      "Ataque Ala | Tipo Volador | Categoría Físico | Potencia 60 | Precisión 100 | PP 35",
+      "Mordisco | Tipo Siniestro | Categoría Físico | Potencia 60 | Precisión 100 | PP 25",
+      "Bomba Lodo | Tipo Veneno | Categoría Especial | Potencia 90 | Precisión 100 | PP 10",
+      "Vuelo | Tipo Volador | Categoría Físico | Potencia 90 | Precisión 95 | PP 15"
+    ],
+    "img_front": "assets/images/golbat.png",
+    "img_back": "assets/images/back/golbat.png"
   }
 ]
