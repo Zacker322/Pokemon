@@ -1,0 +1,531 @@
+[
+  {
+    "nombre": "Bulbasaur",
+    "color": [
+      120,
+      200,
+      80
+    ],
+    "tipo": "Planta/Veneno",
+    "ataque": 49,
+    "defensa": 49,
+    "ataque_especial": 65,
+    "defensa_especial": 65,
+    "velocidad": 45,
+    "salud": 145,
+    "movimientos": [
+      "Látigo Cepa | Tipo Planta | Categoría Físico | Potencia 45 | Precisión 100 | PP 25",
+      "Drenadoras | Tipo Planta | Categoría Especial | Potencia 75 | Precisión 100 | PP 10",
+      "Bomba Lodo | Tipo Veneno | Categoría Especial | Potencia 90 | Precisión 100 | PP 10",
+      "Rayo Solar | Tipo Planta | Categoría Especial | Potencia 120 | Precisión 100 | PP 10"
+    ],
+    "img_front": "assets/images/bulbasaur.png",
+    "img_back": "assets/images/back/bulbasaur.png"
+  },
+  {
+    "nombre": "Ivysaur",
+    "color": [
+      100,
+      180,
+      70
+    ],
+    "tipo": "Planta/Veneno",
+    "ataque": 62,
+    "defensa": 63,
+    "ataque_especial": 80,
+    "defensa_especial": 80,
+    "velocidad": 60,
+    "salud": 160,
+    "movimientos": [
+      "Látigo Cepa | Tipo Planta | Categoría Físico | Potencia 45 | Precisión 100 | PP 25",
+      "Hoja Afilada | Tipo Planta | Categoría Físico | Potencia 55 | Precisión 95 | PP 25",
+      "Bomba Lodo | Tipo Veneno | Categoría Especial | Potencia 90 | Precisión 100 | PP 10",
+      "Rayo Solar | Tipo Planta | Categoría Especial | Potencia 120 | Precisión 100 | PP 10"
+    ],
+    "img_front": "assets/images/ivysaur.png",
+    "img_back": "assets/images/back/ivysaur.png"
+  },
+  {
+    "nombre": "Venusaur",
+    "color": [
+      90,
+      170,
+      60
+    ],
+    "tipo": "Planta/Veneno",
+    "ataque": 82,
+    "defensa": 83,
+    "ataque_especial": 100,
+    "defensa_especial": 100,
+    "velocidad": 80,
+    "salud": 180,
+    "movimientos": [
+      "Hoja Afilada | Tipo Planta | Categoría Físico | Potencia 55 | Precisión 95 | PP 25",
+      "Bomba Germen | Tipo Planta | Categoría Especial | Potencia 80 | Precisión 100 | PP 15",
+      "Bomba Lodo | Tipo Veneno | Categoría Especial | Potencia 90 | Precisión 100 | PP 10",
+      "Rayo Solar | Tipo Planta | Categoría Especial | Potencia 120 | Precisión 100 | PP 10"
+    ],
+    "img_front": "assets/images/venusaur.png",
+    "img_back": "assets/images/back/venusaur.png"
+  },
+  {
+    "nombre": "Charmander",
+    "color": [
+      240,
+      128,
+      48
+    ],
+    "tipo": "Fuego",
+    "ataque": 52,
+    "defensa": 43,
+    "ataque_especial": 60,
+    "defensa_especial": 50,
+    "velocidad": 65,
+    "salud": 139,
+    "movimientos": [
+      "Ascuas | Tipo Fuego | Categoría Especial | Potencia 40 | Precisión 100 | PP 25",
+      "Garra Dragón | Tipo Dragón | Categoría Físico | Potencia 80 | Precisión 100 | PP 15",
+      "Lanzallamas | Tipo Fuego | Categoría Especial | Potencia 90 | Precisión 100 | PP 15",
+      "Onda Ígnea | Tipo Fuego | Categoría Especial | Potencia 95 | Precisión 90 | PP 10"
+    ],
+    "img_front": "assets/images/charmander.png",
+    "img_back": "assets/images/back/charmander.png"
+  },
+  {
+    "nombre": "Charmeleon",
+    "color": [
+      230,
+      118,
+      38
+    ],
+    "tipo": "Fuego",
+    "ataque": 64,
+    "defensa": 58,
+    "ataque_especial": 80,
+    "defensa_especial": 65,
+    "velocidad": 80,
+    "salud": 158,
+    "movimientos": [
+      "Ascuas | Tipo Fuego | Categoría Especial | Potencia 40 | Precisión 100 | PP 25",
+      "Garra Dragón | Tipo Dragón | Categoría Físico | Potencia 80 | Precisión 100 | PP 15",
+      "Lanzallamas | Tipo Fuego | Categoría Especial | Potencia 90 | Precisión 100 | PP 15",
+      "Onda Ígnea | Tipo Fuego | Categoría Especial | Potencia 95 | Precisión 90 | PP 10"
+    ],
+    "img_front": "assets/images/charmeleon.png",
+    "img_back": "assets/images/back/charmeleon.png"
+  },
+  {
+    "nombre": "Charizard",
+    "color": [
+      220,
+      108,
+      28
+    ],
+    "tipo": "Fuego/Volador",
+    "ataque": 84,
+    "defensa": 78,
+    "ataque_especial": 109,
+    "defensa_especial": 85,
+    "velocidad": 100,
+    "salud": 178,
+    "movimientos": [
+      "Vuelo | Tipo Volador | Categoría Físico | Potencia 90 | Precisión 95 | PP 15",
+      "Garra Dragón | Tipo Dragón | Categoría Físico | Potencia 80 | Precisión 100 | PP 15",
+      "Lanzallamas | Tipo Fuego | Categoría Especial | Potencia 90 | Precisión 100 | PP 15",
+      "Onda Ígnea | Tipo Fuego | Categoría Especial | Potencia 95 | Precisión 90 | PP 10"
+    ],
+    "img_front": "assets/images/charizard.png",
+    "img_back": "assets/images/back/charizard.png"
+  },
+  {
+    "nombre": "Squirtle",
+    "color": [
+      100,
+      180,
+      220
+    ],
+    "tipo": "Agua",
+    "ataque": 48,
+    "defensa": 65,
+    "ataque_especial": 50,
+    "defensa_especial": 64,
+    "velocidad": 43,
+    "salud": 144,
+    "movimientos": [
+      "Pistola Agua | Tipo Agua | Categoría Especial | Potencia 40 | Precisión 100 | PP 25",
+      "Rayo Burbuja | Tipo Agua | Categoría Especial | Potencia 65 | Precisión 100 | PP 20",
+      "Acua Cola | Tipo Agua | Categoría Físico | Potencia 90 | Precisión 90 | PP 10",
+      "Hidrobomba | Tipo Agua | Categoría Especial | Potencia 110 | Precisión 80 | PP 5"
+    ],
+    "img_front": "assets/images/squirtle.png",
+    "img_back": "assets/images/back/squirtle.png"
+  },
+  {
+    "nombre": "Wartortle",
+    "color": [
+      90,
+      170,
+      210
+    ],
+    "tipo": "Agua",
+    "ataque": 63,
+    "defensa": 80,
+    "ataque_especial": 65,
+    "defensa_especial": 80,
+    "velocidad": 58,
+    "salud": 159,
+    "movimientos": [
+      "Pistola Agua | Tipo Agua | Categoría Especial | Potencia 40 | Precisión 100 | PP 25",
+      "Rayo Burbuja | Tipo Agua | Categoría Especial | Potencia 65 | Precisión 100 | PP 20",
+      "Acua Cola | Tipo Agua | Categoría Físico | Potencia 90 | Precisión 90 | PP 10",
+      "Hidrobomba | Tipo Agua | Categoría Especial | Potencia 110 | Precisión 80 | PP 5"
+    ],
+    "img_front": "assets/images/wartortle.png",
+    "img_back": "assets/images/back/wartortle.png"
+  },
+  {
+    "nombre": "Blastoise",
+    "color": [
+      80,
+      160,
+      200
+    ],
+    "tipo": "Agua",
+    "ataque": 83,
+    "defensa": 100,
+    "ataque_especial": 85,
+    "defensa_especial": 105,
+    "velocidad": 78,
+    "salud": 179,
+    "movimientos": [
+      "Rayo Burbuja | Tipo Agua | Categoría Especial | Potencia 65 | Precisión 100 | PP 20",
+      "Acua Cola | Tipo Agua | Categoría Físico | Potencia 90 | Precisión 90 | PP 10",
+      "Hidrobomba | Tipo Agua | Categoría Especial | Potencia 110 | Precisión 80 | PP 5",
+      "Buceo | Tipo Agua | Categoría Físico | Potencia 80 | Precisión 100 | PP 10"
+    ],
+    "img_front": "assets/images/blastoise.png",
+    "img_back": "assets/images/back/blastoise.png"
+  },
+  {
+    "nombre": "Caterpie",
+    "color": [
+      150,
+      200,
+      100
+    ],
+    "tipo": "Bicho",
+    "ataque": 30,
+    "defensa": 35,
+    "ataque_especial": 20,
+    "defensa_especial": 20,
+    "velocidad": 45,
+    "salud": 145,
+    "movimientos": [
+      "Placaje | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35",
+      "Picadura | Tipo Bicho | Categoría Físico | Potencia 60 | Precisión 100 | PP 20",
+      "Disparo Demora | Tipo Bicho | Categoría Especial | Potencia 50 | Precisión 95 | PP 15",
+      "Fortaleza | Tipo Normal | Categoría Estado | Potencia 0 | Precisión 0 | PP 30"
+    ],
+    "img_front": "assets/images/caterpie.png",
+    "img_back": "assets/images/back/caterpie.png"
+  },
+  {
+    "nombre": "Metapod",
+    "color": [
+      120,
+      180,
+      80
+    ],
+    "tipo": "Bicho",
+    "ataque": 20,
+    "defensa": 55,
+    "ataque_especial": 25,
+    "defensa_especial": 25,
+    "velocidad": 30,
+    "salud": 150,
+    "movimientos": [
+      "Fortaleza | Tipo Normal | Categoría Estado | Potencia 0 | Precisión 0 | PP 30",
+      "Placaje | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35",
+      "Picadura | Tipo Bicho | Categoría Físico | Potencia 60 | Precisión 100 | PP 20",
+      "Disparo Demora | Tipo Bicho | Categoría Especial | Potencia 50 | Precisión 95 | PP 15"
+    ],
+    "img_front": "assets/images/metapod.png",
+    "img_back": "assets/images/back/metapod.png"
+  },
+  {
+    "nombre": "Butterfree",
+    "color": [
+      200,
+      180,
+      230
+    ],
+    "tipo": "Bicho/Volador",
+    "ataque": 45,
+    "defensa": 50,
+    "ataque_especial": 90,
+    "defensa_especial": 80,
+    "velocidad": 70,
+    "salud": 160,
+    "movimientos": [
+      "Confusión | Tipo Psíquico | Categoría Especial | Potencia 50 | Precisión 100 | PP 25",
+      "Viento Plata | Tipo Bicho | Categoría Especial | Potencia 60 | Precisión 100 | PP 20",
+      "Zumbido | Tipo Bicho | Categoría Especial | Potencia 90 | Precisión 100 | PP 10",
+      "Brillo Mágico | Tipo Hada | Categoría Especial | Potencia 80 | Precisión 100 | PP 10"
+    ],
+    "img_front": "assets/images/butterfree.png",
+    "img_back": "assets/images/back/butterfree.png"
+  },
+  {
+    "nombre": "Weedle",
+    "color": [
+      180,
+      150,
+      80
+    ],
+    "tipo": "Bicho/Veneno",
+    "ataque": 35,
+    "defensa": 30,
+    "ataque_especial": 20,
+    "defensa_especial": 20,
+    "velocidad": 50,
+    "salud": 140,
+    "movimientos": [
+      "Picotazo Veneno | Tipo Veneno | Categoría Físico | Potencia 15 | Precisión 100 | PP 35",
+      "Picadura | Tipo Bicho | Categoría Físico | Potencia 60 | Precisión 100 | PP 20",
+      "Disparo Demora | Tipo Bicho | Categoría Especial | Potencia 50 | Precisión 95 | PP 15",
+      "Placaje | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35"
+    ],
+    "img_front": "assets/images/weedle.png",
+    "img_back": "assets/images/back/weedle.png"
+  },
+  {
+    "nombre": "Kakuna",
+    "color": [
+      200,
+      180,
+      60
+    ],
+    "tipo": "Bicho/Veneno",
+    "ataque": 25,
+    "defensa": 50,
+    "ataque_especial": 25,
+    "defensa_especial": 25,
+    "velocidad": 35,
+    "salud": 145,
+    "movimientos": [
+      "Fortaleza | Tipo Normal | Categoría Estado | Potencia 0 | Precisión 0 | PP 30",
+      "Picadura | Tipo Bicho | Categoría Físico | Potencia 60 | Precisión 100 | PP 20",
+      "Picotazo Veneno | Tipo Veneno | Categoría Físico | Potencia 15 | Precisión 100 | PP 35",
+      "Disparo Demora | Tipo Bicho | Categoría Especial | Potencia 50 | Precisión 95 | PP 15"
+    ],
+    "img_front": "assets/images/kakuna.png",
+    "img_back": "assets/images/back/kakuna.png"
+  },
+  {
+    "nombre": "Beedrill",
+    "color": [
+      230,
+      200,
+      50
+    ],
+    "tipo": "Bicho/Veneno",
+    "ataque": 90,
+    "defensa": 40,
+    "ataque_especial": 45,
+    "defensa_especial": 80,
+    "velocidad": 75,
+    "salud": 165,
+    "movimientos": [
+      "Picotazo Veneno | Tipo Veneno | Categoría Físico | Potencia 15 | Precisión 100 | PP 35",
+      "Pin Misil | Tipo Bicho | Categoría Físico | Potencia 25 | Precisión 95 | PP 20",
+      "Tijera X | Tipo Bicho | Categoría Físico | Potencia 80 | Precisión 100 | PP 15",
+      "Bomba Lodo | Tipo Veneno | Categoría Especial | Potencia 90 | Precisión 100 | PP 10"
+    ],
+    "img_front": "assets/images/beedrill.png",
+    "img_back": "assets/images/back/beedrill.png"
+  },
+  {
+    "nombre": "Pidgey",
+    "color": [
+      180,
+      150,
+      120
+    ],
+    "tipo": "Normal/Volador",
+    "ataque": 45,
+    "defensa": 40,
+    "ataque_especial": 35,
+    "defensa_especial": 35,
+    "velocidad": 56,
+    "salud": 140,
+    "movimientos": [
+      "Placaje | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35",
+      "Tornado | Tipo Volador | Categoría Especial | Potencia 40 | Precisión 100 | PP 35",
+      "Ataque Ala | Tipo Volador | Categoría Físico | Potencia 60 | Precisión 100 | PP 35",
+      "Ataque Aéreo | Tipo Volador | Categoría Físico | Potencia 75 | Precisión 95 | PP 15"
+    ],
+    "img_front": "assets/images/pidgey.png",
+    "img_back": "assets/images/back/pidgey.png"
+  },
+  {
+    "nombre": "Pidgeotto",
+    "color": [
+      170,
+      140,
+      110
+    ],
+    "tipo": "Normal/Volador",
+    "ataque": 60,
+    "defensa": 55,
+    "ataque_especial": 50,
+    "defensa_especial": 50,
+    "velocidad": 71,
+    "salud": 163,
+    "movimientos": [
+      "Placaje | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35",
+      "Ataque Ala | Tipo Volador | Categoría Físico | Potencia 60 | Precisión 100 | PP 35",
+      "Ataque Aéreo | Tipo Volador | Categoría Físico | Potencia 75 | Precisión 95 | PP 15",
+      "Vuelo | Tipo Volador | Categoría Físico | Potencia 90 | Precisión 95 | PP 15"
+    ],
+    "img_front": "assets/images/pidgeotto.png",
+    "img_back": "assets/images/back/pidgeotto.png"
+  },
+  {
+    "nombre": "Pidgeot",
+    "color": [
+      160,
+      130,
+      100
+    ],
+    "tipo": "Normal/Volador",
+    "ataque": 80,
+    "defensa": 75,
+    "ataque_especial": 70,
+    "defensa_especial": 70,
+    "velocidad": 101,
+    "salud": 183,
+    "movimientos": [
+      "Ataque Ala | Tipo Volador | Categoría Físico | Potencia 60 | Precisión 100 | PP 35",
+      "Ataque Aéreo | Tipo Volador | Categoría Físico | Potencia 75 | Precisión 95 | PP 15",
+      "Vuelo | Tipo Volador | Categoría Físico | Potencia 90 | Precisión 95 | PP 15",
+      "Pájaro Osado | Tipo Volador | Categoría Físico | Potencia 120 | Precisión 100 | PP 15"
+    ],
+    "img_front": "assets/images/pidgeot.png",
+    "img_back": "assets/images/back/pidgeot.png"
+  },
+  {
+    "nombre": "Rattata",
+    "color": [
+      130,
+      100,
+      150
+    ],
+    "tipo": "Normal",
+    "ataque": 56,
+    "defensa": 35,
+    "ataque_especial": 25,
+    "defensa_especial": 35,
+    "velocidad": 72,
+    "salud": 130,
+    "movimientos": [
+      "Placaje | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 35",
+      "Ataque Rápido | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 30",
+      "Colmillo Ígneo | Tipo Fuego | Categoría Físico | Potencia 65 | Precisión 95 | PP 15",
+      "Triturar | Tipo Siniestro | Categoría Físico | Potencia 80 | Precisión 100 | PP 15"
+    ],
+    "img_front": "assets/images/rattata.png",
+    "img_back": "assets/images/back/rattata.png"
+  },
+  {
+    "nombre": "Raticate",
+    "color": [
+      150,
+      120,
+      100
+    ],
+    "tipo": "Normal",
+    "ataque": 81,
+    "defensa": 60,
+    "ataque_especial": 50,
+    "defensa_especial": 70,
+    "velocidad": 97,
+    "salud": 155,
+    "movimientos": [
+      "Ataque Rápido | Tipo Normal | Categoría Físico | Potencia 40 | Precisión 100 | PP 30",
+      "Superdiente | Tipo Normal | Categoría Físico | Potencia 80 | Precisión 90 | PP 15",
+      "Triturar | Tipo Siniestro | Categoría Físico | Potencia 80 | Precisión 100 | PP 15",
+      "Gigaimpacto | Tipo Normal | Categoría Físico | Potencia 150 | Precisión 90 | PP 5"
+    ],
+    "img_front": "assets/images/raticate.png",
+    "img_back": "assets/images/back/raticate.png"
+  },
+  {
+    "nombre": "Pichu",
+    "color": [
+      255,
+      230,
+      100
+    ],
+    "tipo": "Eléctrico",
+    "ataque": 40,
+    "defensa": 15,
+    "ataque_especial": 35,
+    "defensa_especial": 35,
+    "velocidad": 60,
+    "salud": 120,
+    "movimientos": [
+      "Impactrueno | Tipo Eléctrico | Categoría Especial | Potencia 40 | Precisión 100 | PP 30",
+      "Onda Trueno | Tipo Eléctrico | Categoría Estado | Potencia 0 | Precisión 90 | PP 20",
+      "Chispa | Tipo Eléctrico | Categoría Físico | Potencia 65 | Precisión 100 | PP 20",
+      "Rayo | Tipo Eléctrico | Categoría Especial | Potencia 90 | Precisión 100 | PP 15"
+    ],
+    "img_front": "assets/images/pichu.png",
+    "img_back": "assets/images/back/pichu.png"
+  },
+  {
+    "nombre": "Pikachu",
+    "color": [
+      255,
+      220,
+      80
+    ],
+    "tipo": "Eléctrico",
+    "ataque": 55,
+    "defensa": 40,
+    "ataque_especial": 50,
+    "defensa_especial": 50,
+    "velocidad": 90,
+    "salud": 135,
+    "movimientos": [
+      "Impactrueno | Tipo Eléctrico | Categoría Especial | Potencia 40 | Precisión 100 | PP 30",
+      "Chispa | Tipo Eléctrico | Categoría Físico | Potencia 65 | Precisión 100 | PP 20",
+      "Rayo | Tipo Eléctrico | Categoría Especial | Potencia 90 | Precisión 100 | PP 15",
+      "Cola Férrea | Tipo Acero | Categoría Físico | Potencia 100 | Precisión 75 | PP 15"
+    ],
+    "img_front": "assets/images/pikachu.png",
+    "img_back": "assets/images/back/pikachu.png"
+  },
+  {
+    "nombre": "Raichu",
+    "color": [
+      255,
+      200,
+      60
+    ],
+    "tipo": "Eléctrico",
+    "ataque": 90,
+    "defensa": 55,
+    "ataque_especial": 90,
+    "defensa_especial": 80,
+    "velocidad": 110,
+    "salud": 160,
+    "movimientos": [
+      "Chispa | Tipo Eléctrico | Categoría Físico | Potencia 65 | Precisión 100 | PP 20",
+      "Rayo | Tipo Eléctrico | Categoría Especial | Potencia 90 | Precisión 100 | PP 15",
+      "Trueno | Tipo Eléctrico | Categoría Especial | Potencia 110 | Precisión 70 | PP 10",
+      "Megapuño | Tipo Normal | Categoría Físico | Potencia 80 | Precisión 85 | PP 20"
+    ],
+    "img_front": "assets/images/raichu.png",
+    "img_back": "assets/images/back/raichu.png"
+  }
+]
